@@ -26,6 +26,8 @@ An offline desktop application for Windows to open, edit, import and export larg
    - `Qanrel.Data.Workbench.1.0.0.Portable.exe`: runs without installing.
 3. Start the file and follow the steps.
 
+Your browser may also warn you when you download the file, for example Microsoft Edge says that the file "is not commonly downloaded". This is expected for a new program without a code-signing certificate. In Edge, open the Downloads panel and click the three dots (...) next to the file. Choose **Keep**. In the next window, click the small arrow next to **Delete** and choose **Keep anyway**.
+
 ## Windows warning when you start the file
 
 The installer is not digitally signed yet. Because of this, Windows may show a blue window called "Windows protected your PC" and name the publisher as unknown. This is expected for software without a code-signing certificate and does not mean the file is dangerous.
