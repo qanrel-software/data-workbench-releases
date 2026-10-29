@@ -22,8 +22,8 @@ An offline desktop application for Windows to open, edit, import and export larg
 
 1. Open the **Releases** section of this repository.
 2. Download one of the two files of the latest release:
-   - `Qanrel Data Workbench Setup 1.0.0.exe`: the installer.
-   - `Qanrel Data Workbench 1.0.0 Portable.exe`: runs without installing.
+   - `Qanrel.Data.Workbench.Setup.1.0.0.exe`: the installer.
+   - `Qanrel.Data.Workbench.1.0.0.Portable.exe`: runs without installing.
 3. Start the file and follow the steps.
 
 ## Windows warning when you start the file
@@ -35,13 +35,13 @@ To continue, click **More info** and then **Run anyway**.
 If you want to be sure that your download is the original file, compare its SHA-256 hash with the table below. In Windows PowerShell, run this command with the path to your file:
 
 ```
-Get-FileHash "C:\path\to\Qanrel Data Workbench Setup 1.0.0.exe" -Algorithm SHA256
+Get-FileHash "C:\path\to\Qanrel.Data.Workbench.Setup.1.0.0.exe" -Algorithm SHA256
 ```
 
 | File | SHA-256 |
 |---|---|
-| Qanrel Data Workbench Setup 1.0.0.exe | 74D346C46D4F40CA9672D14D288129CB25D23699AFD6894775A17951EC54BB7F |
-| Qanrel Data Workbench 1.0.0 Portable.exe | 2133F32B40B16D4BE384CEBED4C3038B63BF4CBD23CDC6B285A238B109B0DAE2 |
+| Qanrel.Data.Workbench.Setup.1.0.0.exe | 74D346C46D4F40CA9672D14D288129CB25D23699AFD6894775A17951EC54BB7F |
+| Qanrel.Data.Workbench.1.0.0.Portable.exe | 2133F32B40B16D4BE384CEBED4C3038B63BF4CBD23CDC6B285A238B109B0DAE2 |
 
 ## Before you edit a file: make a copy
 
